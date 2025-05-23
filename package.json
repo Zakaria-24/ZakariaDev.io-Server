@@ -41,5 +41,7 @@
   },
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/Zakaria-24/ZakariaDev.io-Server.git",
+  "author": "Zakaria <zakariajoarder.bd@gmail.com>"
 }
